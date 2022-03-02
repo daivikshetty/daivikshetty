@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daivikshetty
 - 👀 I’m interested in Competitive Programming and Web Development
-- 🌱 I’m currently learning Back-End Web Development
+- 🌱 I’m currently learning Web Development
 - 📫 Reach me through my mail shettydaivik100@gmail.com
 -  My CodeChef Profile : https://www.codechef.com/users/daivik_shetty
 <!---
