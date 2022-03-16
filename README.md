@@ -1,5 +1,5 @@
 # About Me
-- 👋 Hi, I’m @daivikshetty
+- 👋 Hi, I’m DAIVIK SHETTY
 - 👀 I’m interested in Competitive Programming and Web Development
 - 🌱 I’m currently learning Web Development
 - 📫 Reach me through my mail shettydaivik100@gmail.com
