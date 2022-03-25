@@ -8,4 +8,4 @@
 ## Competitive Programming 
 -  CodeChef : https://www.codechef.com/users/daivik_shetty
 -  LeetCode : https://leetcode.com/daivik_shetty/
--  HackerRank : https://www.hackerrank.com/shettydaivik100
+-  HackerRank : https://www.hackerrank.com/daivik_shetty
