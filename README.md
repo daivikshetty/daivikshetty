@@ -9,7 +9,7 @@
 
 # Contact Me
 - Email : shettydaivik100@gmail.com
-- 
+
 - LinkedIn : https://www.linkedin.com/in/daivik-shetty-a4537521b/
 
 
