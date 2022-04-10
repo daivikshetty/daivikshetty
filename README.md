@@ -7,7 +7,10 @@
 
 - 💡 I’m currently learning about Back-End Web Development
 
-- 📰 Reach me through my mail shettydaivik100@gmail.com
+# Contact Me
+- Email : shettydaivik100@gmail.com
+- 
+- LinkedIn : https://www.linkedin.com/in/daivik-shetty-a4537521b/
 
 
 
