@@ -5,4 +5,4 @@
 
 - 🎯 I’m interested in Competitive Programming and Web Development
 
-- 💡 I’m currently learning about Back-End Web Development
+- 💡 I’m currently learning Back-End Web Development
