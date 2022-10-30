@@ -7,4 +7,4 @@
 
 - 💡 I’m currently learning Back-End Development
 
-[![trophy](https://github-profile-trophy.vercel.app/daivikshetty=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=daivikshetty)](https://github.com/ryo-ma/github-profile-trophy) -->
