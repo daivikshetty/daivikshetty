@@ -1,9 +1,7 @@
 # About Me
 - 🧑‍💻 Hi, I’m **DAIVIK SHETTY**
 
-- 📜 I am a B.Tech (CSE) Student in NMAM Institute of Technology,Nitte
-
-- 🎯 I’m interested in Competitive Programming and Web Development
+- 📜 I am a CSE Student studying in NMAM Institute of Technology,Nitte
 
 - 💡 I’m currently learning Back-End Development
 
